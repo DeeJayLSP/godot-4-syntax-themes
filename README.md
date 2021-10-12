@@ -1,3 +1,9 @@
+Change note
+---
+This repo is the same as [this](https://github.com/godotengine/godot-syntax-themes), but all the themes are changed to work with Godot 4.
+Since both Godot 3 and 4 themes go in the same folder, all themes in this repo have a `-4` to distinguish.
+_____
+
 # Godot syntax themes
 
 ![Screenshot](https://archive.hugo.pro/.public/godot-syntax-themes.png)
